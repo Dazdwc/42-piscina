@@ -32,9 +32,9 @@ La idea es que tanto yo como cualquier persona que esté empezando pueda usar es
 ```
 📁 42-piscina/
 ├── 📘 apuntes/                # Apuntes de comandos y teoría
-│   ├── apuntes_comando_ls.md
-│   ├── apuntes_comando_git.md
-│   └── ...
+│   └── 📁 carpetas_por_tipo_de_uso
+│       └──apuntes_comando_git.md
+│       └── ...
 ├── 🐚 shell00/ # (Opcional) Guía previa al módulo o resumen general
 │   ├──🧭 antes_de_empezar.md 
 │   ├── ex00/
