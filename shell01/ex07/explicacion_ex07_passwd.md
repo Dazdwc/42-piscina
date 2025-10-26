@@ -1,4 +1,4 @@
-# 🧩 explicacion_exXX_passwd.md
+# 🧩 explicacion_ex07_passwd.md
 
 Este ejercicio consiste en procesar el archivo `/etc/passwd` mediante una serie de comandos encadenados en **bash**, aplicando varios filtros y transformaciones.
 

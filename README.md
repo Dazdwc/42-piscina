@@ -13,6 +13,26 @@ La idea es que tanto yo como cualquier persona que esté empezando pueda usar es
 
 ---
 
+## ⚠️ Advertencia
+
+Este documento no es una guía de soluciones rápidas, sino **mi cuaderno de viaje por 42**.  
+Aquí recopilo lo que aprendo, cómo lo entiendo y los errores que me ayudan a crecer.  
+Comparto estas notas para **quien desee aprender de mi experiencia**, no para quien busque copiar resultados.
+
+> ## 💬 **No sigas estos pasos si aún no has superado el ejercicio.**  
+> ### Al inicio de cada resolución indico los comandos o funciones que intervienen: puedes consultarlos e ir al apartado de **apuntes** correspondiente para profundizar en ellos.  Seguro te serán de útilidad. 🧠
+> En esos apuntes encontrarás explicaciones detalladas de cada herramienta que he usado para completar el ejercicio.  
+> Seguir el paso a paso sin haberlo intentado antes te robaría la oportunidad de vivir lo que realmente hace única a 42.
+
+La **esencia de 42** no está en llegar antes, sino en **no dejar el conocimiento tirado en el camino**.  
+No se trata de una meta ni de un título, sino de **llegar cuando te toque llegar**, con comprensión y orgullo.  
+Resolver sin entender no es avanzar; **entender y enseñar** es lo que te hace crecer.
+
+> 🧩 *“42 no se hace para obtener un título, se hace para obtener conocimiento.”*
+
+---
+
+
 ## 🧭 ¿Qué encontrarás aquí?
 
 > Repositorio personal donde documento **mi paso por la Piscina de 42 Barcelona**.  
