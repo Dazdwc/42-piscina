@@ -19,7 +19,7 @@ El objetivo es entender cómo los comandos `cp` y `patch` trabajan juntos para r
 Primero, hacemos una copia exacta de `a` y la llamamos `b`:
 
 ```bash
-cp a b
+  cp a b
 ```
 
 📘 Explicación:
@@ -33,7 +33,7 @@ cp a b
 Usamos el comando `patch` para modificar `b` siguiendo las instrucciones que contiene `sw.diff`:
 
 ```bash
-patch b < sw.diff
+  patch b < sw.diff
 ```
 
 📘 Explicación:
@@ -50,7 +50,7 @@ patch b < sw.diff
 Podemos comparar los archivos `a` y `b` con el comando `diff`:
 
 ```bash
-diff a b
+  diff a b
 ```
 
 ✅ Si el comando **no muestra nada**, significa que el parche se aplicó correctamente y que `b` está como debe estar.
@@ -79,7 +79,7 @@ sw.diff
 
 Y al ejecutar:
 ```bash
-diff a b
+  diff a b
 ```
 el resultado debe ser **sin salida**, lo que indica que el parche se aplicó correctamente ✅
 
